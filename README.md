@@ -46,5 +46,5 @@ Technologies used:
 
 Author
 
-* Nguyễn Quốc Trọng
+* Nguyen Quoc Trong
 * Student at University of Economics Ho Chi Minh City (UEH)

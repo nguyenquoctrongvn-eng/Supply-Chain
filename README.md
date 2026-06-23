@@ -1,3 +1,5 @@
+# Supply Chain Analysis
+
 ## Overview
 
 This project analyzes a global supply chain dataset using SQL Server and Power BI to uncover business insights related to sales performance, customer behavior, product profitability, and logistics efficiency. The dataset contains **65,536 rows and 53 columns**, providing detailed transactional and operational data across multiple business areas.
